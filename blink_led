@@ -1,0 +1,6 @@
+cd
+cd VSDSquadron_FM
+lsusb
+make clean
+make build
+sudo make flash
